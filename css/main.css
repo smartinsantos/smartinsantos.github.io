@@ -1928,6 +1928,7 @@ header .logo a {
 	display: block;
 	text-align: left;
 	color: rgba(0, 0, 0, 0.5);
+	margin-bottom: 1rem;
 }
 .popup-modal .link-box {
 	width: 100%;
